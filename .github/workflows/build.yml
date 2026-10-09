@@ -1,4 +1,4 @@
-name: Build TasksX APK
+name: Build tasksx APK
 
 on:
   push:
